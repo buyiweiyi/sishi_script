@@ -1,2 +1,2 @@
 # sishi_script
-#详情见README.pdf
+详情见README.pdf

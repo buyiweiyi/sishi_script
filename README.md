@@ -1,2 +1,2 @@
 # sishi_script
-详情见README.pdf
+wx里面学四史的脚本，详情见README.pdf
